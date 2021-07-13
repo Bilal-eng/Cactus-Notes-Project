@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">Cactus-Notes-Project</string>
+    <string name="app_name">Sign up</string>
+    <string name="email">E-mail</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_up">sign up</string>
+    <string name="already_have_an_account">ALREADY HAVE AN ACCOUNT?</string>
+    <string name="email_is_invalid">Email is invalid</string>
+    <string name="email_is_required">Email is required.</string>
+    <string name="username_is_required">Username is required.</string>
+    <string name="password_is_required">Password is required.</string>
+    <string name="username_restrictions">Username can only include a-z, 0-9 and _ characters.</string>
+    <string name="username_is_too_short">Username is too short.</string>
+    <string name="password_is_too_short">Password is too short.</string>
+    <string name="username_is_too_long">Username is too long.</string>
+    <string name="password_is_too_long">Password is too long.</string>
+    <string name="password_restrictions">Password must contain one digit, one uppercase letter, one
+        lowercase letter and one special character.
+    </string>
 </resources>
