@@ -27,13 +27,13 @@ class SignupActivity : AppCompatActivity() {
                     password.toString()
                 )
             ) {
-                //TODO("Go to login activity")
+                // TODO: Go to LoginActivity
             }
 
         }
 
         binding.textViewHaveAnAccount.setOnClickListener {
-            //TODO("Go to login activity")
+            //TODO: Go to LoginActivity
         }
     }
 
