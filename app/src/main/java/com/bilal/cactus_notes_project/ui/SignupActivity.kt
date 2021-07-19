@@ -32,7 +32,7 @@ class SignupActivity : AppCompatActivity() {
 
         }
 
-        binding.textViewHaveAnAccount.setOnClickListener {
+        binding.buttonHaveAnAccount.setOnClickListener {
             //TODO: Go to LoginActivity
         }
     }
