@@ -15,4 +15,6 @@
     <string name="username_is_too_long">Username is too long.</string>
     <string name="password_is_too_long">Password is too long.</string>
     <string name="password_restrictions">Password must contain one digit, one uppercase letter, one lowercase letter and one special character.</string>
+    <string name="couldnt_connect">Couldn’t connect to the servers. Please check your connection.</string>
+    <string name="unexpected_error_occurred">Unexpected error occurred.</string>
 </resources>
